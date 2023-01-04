@@ -1,2 +1,2 @@
 build:
-	@go build ./cmd/todo
+	@go build -a ./cmd/todo
